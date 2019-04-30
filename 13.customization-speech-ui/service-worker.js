@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BotFramework-WebChat/13.customization-speech-ui/precache-manifest.fa452177c0339af784194f6a2bcfbfaa.js"
+  "/BotFramework-WebChat/13.customization-speech-ui/precache-manifest.aa40c801b6cc3b128e98095909be6b6d.js"
 );
 
 workbox.clientsClaim();

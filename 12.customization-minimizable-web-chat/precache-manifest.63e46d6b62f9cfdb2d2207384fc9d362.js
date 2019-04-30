@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/runtime~main.2bafed12.js"
   },
   {
-    "revision": "4c3a3a8e136ea4a4c7f2",
-    "url": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/main.4c3a3a8e.chunk.js"
+    "revision": "fc6ccfad80cae74c9c86",
+    "url": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/main.fc6ccfad.chunk.js"
   },
   {
     "revision": "3e94ab31c230124f07bf",
     "url": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/1.3e94ab31.chunk.js"
   },
   {
-    "revision": "4c3a3a8e136ea4a4c7f2",
-    "url": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/css/main.892d6520.chunk.css"
+    "revision": "fc6ccfad80cae74c9c86",
+    "url": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/css/main.5ceddb27.chunk.css"
   },
   {
-    "revision": "d6f4ad4ab5e8fa05146d3f7fae509dad",
+    "revision": "fc7bb5cb2a23923ae9954e7d84e51199",
     "url": "/BotFramework-WebChat/12.customization-minimizable-web-chat/index.html"
   }
 ];
